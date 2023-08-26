@@ -1,0 +1,11 @@
+// public/artworks.json
+[
+  {
+    "id": 1,
+    "title": "Starry Night",
+    "artist": "Vincent van Gogh",
+    "image": "starry-night.jpg",
+    "description": "A masterpiece depicting a starry night sky."
+  },
+  // More artworks...
+]
